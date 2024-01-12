@@ -86,7 +86,7 @@ $ npm install
 ```console
 $ npm start
 ```
-
+#shivani kushwaha
   View the website at: http://localhost:3000
 
 ## Philosophy
